@@ -1,0 +1,28 @@
+name: dbeisinger
+favicon: null
+layout_spectrum: 0.9450979495886713
+typography_spectrum: 0.6014331006444991
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10566286649554968
+  lightness: 0.744061479344964
+  saturation: 0.03815130074508488
+  rhythmicContrast: 0.26709829666651785
+purpose: []
