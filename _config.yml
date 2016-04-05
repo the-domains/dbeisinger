@@ -1,7 +1,7 @@
 name: dbeisinger
 favicon: null
-layout_spectrum: 0.5086
-typography_spectrum: 0.6014331006444991
+layout_spectrum: 0.23709
+typography_spectrum: 0.26873
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#6f6f6f'
     - '#fefefe'
     - '#dcdcdc'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 1
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0
 purpose: []
